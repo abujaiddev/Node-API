@@ -32,7 +32,7 @@ npm run build
 ### Author
 
 Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+[Abu Jaid](http://madewithtech.online/)
 
 ### Version
 
