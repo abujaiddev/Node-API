@@ -12,6 +12,7 @@ const Post = require("../../models/Post");
 // @route    GET api/profile/me
 // @desc     Get current users profile
 // @access   Private
+
 router.get("/me", auth, async (req, res) => {
   try {
     const profile = await Profile.findOne({
